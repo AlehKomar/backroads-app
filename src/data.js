@@ -6,8 +6,8 @@ import imgTour4 from './images/tour-4.jpeg'
 export const pageLinks = [
   { id: 1, href: '#home', text: 'home' },
   { id: 2, href: '#about', text: 'about' },
-  { id: 2, href: '#services', text: 'services' },
-  { id: 2, href: '#tours', text: 'tours' }
+  { id: 3, href: '#services', text: 'services' },
+  { id: 4, href: '#tours', text: 'tours' }
 ]
 
 export const socialLinks = [
